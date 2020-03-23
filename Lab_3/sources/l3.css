@@ -1,0 +1,31 @@
+body{ 
+    background: #E3F6CE;
+    color: #243B0B;
+    margin-left: 15px;
+    font-family: 'Lato', sans-serif;
+}
+footer{
+    position: fixed;
+    bottom: 20px;
+    right: 15px;
+}
+header{
+    position: relative;
+    top: 20px;
+
+}
+.home_image{
+    position: absolute;
+    top:3%;
+    right:3%
+}
+.link{
+    color: #74420F;
+    padding: 20px;
+    font-size: 20px;
+}
+.icons{
+    display: flex;
+    justify-content: flex-end;
+}
+    
